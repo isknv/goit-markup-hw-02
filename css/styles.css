@@ -225,8 +225,7 @@ button {
   letter-spacing: 0.03em;
 }
 
-.filters .main-button:hover,
-.filters .main-button:focus {
+.filters .main-button:hover {
   background: #2196F3;
 }
 
